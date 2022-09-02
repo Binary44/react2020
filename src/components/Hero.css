@@ -9,7 +9,7 @@
 }
 
 .content h1{
-    font-size: 80px;
+    font-size: 90px;
     font-weight: bolder;
 }
 
@@ -23,5 +23,6 @@
 }
 
 .image{
-    width: 200px;
+    width: 700px;
+    padding: 20px 80px;
 }
