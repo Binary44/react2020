@@ -20,9 +20,13 @@
     padding: 16px 20px;
     border-radius: 10px;
     margin-top: 40px;
+    cursor: pointer;
 }
 
 .image{
     width: 700px;
     padding: 20px 80px;
+}
+.icons{
+    display: flex;
 }
